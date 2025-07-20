@@ -1,1 +1,26 @@
-
+[
+    {
+        "title": "Network Traffic Analysis",
+        "subtitle": "Security Research",
+        "icon": "fas fa-network-wired",
+        "description": "Captured and analyzed live network packets using Wireshark and TCPdump. Practiced filtering, dissecting, and interpreting network logs for forensic and monitoring use cases.",
+        "tags": ["Wireshark", "TCPdump", "Traffic Analysis"],
+        "year": "2024"
+    },
+    {
+        "title": "Penetration Testing",
+        "subtitle": "Vulnerability Assessment",
+        "icon": "fas fa-shield-alt",
+        "description": "Executed vulnerability scans using Nmap for network reconnaissance. Used Metasploitable to simulate real-world attacks and gain hands-on experience in exploiting security flaws.",
+        "tags": ["Metasploit", "Nmap", "Vulnerability"],
+        "year": "2024"
+    },
+    {
+        "title": "Web Security Testing",
+        "subtitle": "Application Security",
+        "icon": "fas fa-lock",
+        "description": "Used Burp Suite to intercept and manipulate HTTP requests. Identified and experimented with basic web vulnerabilities such as input tampering, cookie manipulation, XSS and SQLi basics.",
+        "tags": ["Burpsuite", "XSS", "SQLi"],
+        "year": "2024"
+    }
+]
